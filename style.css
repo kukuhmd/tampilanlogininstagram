@@ -1,0 +1,146 @@
+.container {
+    width: 800px;
+    margin: 0px auto;
+    padding-top: 50px;
+    display: flex;
+    font-family: sans-serif;
+}
+
+.gambar {
+    width: 100%;
+}
+
+.img-thumb {
+    width: 100%;
+}
+
+.card-wrapper {
+    width: 50%;
+}
+
+.card {
+    width: 350px;
+    border-style: solid;
+    border-color: #f0f0f0;
+    border-width: 2px;
+    text-align: center;
+    background-color: white;
+}
+
+.logo {
+    width: 180px;
+    margin-top: 30px;
+}
+
+.form {
+    margin-top: 30px;
+}
+
+.input {
+    width: 250px;
+    height: 40px;
+    border: 2px solid #f0f0f0;
+    padding: 4px;
+    border-radius: 4px;
+    margin-top: 5px;
+    padding-left: 20px;
+}
+
+.btn {
+    background-color: #0095f6;
+    border: none;
+    color: white;
+    margin-top: 20px;
+    width: 260px;
+    height: 40px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.or {
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 45px;
+    padding-right: 45px;
+    color: #8a8a8a;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.line {
+    background: #f0f0f0;
+    height: 2px;
+    width: 105px;
+}
+
+.loginfb {
+    color: blue;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.linkfg {
+    color: #8a8a8a;
+    text-decoration: none;
+    font-size: 12px;
+}
+
+.cardua {
+    width: 350px;
+    border-style: solid;
+    border-color: #f0f0f0;
+    border-width: 2px;
+    text-align: center;
+    background-color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 14px;
+}
+
+.linkup {
+    color: blue;
+    text-decoration: none;
+}
+
+.getapp {
+    width: 354px;
+    font-size: 14px;
+    line-height: 18px;
+    text-align: center;
+}
+
+.gambarps {
+    justify-content: center;
+}
+
+.gambaranios {
+    width: 30%;
+    cursor: pointer;
+}
+
+.footer {
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 12px;
+    color: #8a8a8a;
+}
+
+.footer ul li {
+    display: inline-block;
+    padding-right: 10px;
+}
+
+.akhir {
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 12px;
+    color: #8a8a8a;
+}
+
+.akhir ul li {
+    display: inline-block;
+    padding-right: 10px;
+}
